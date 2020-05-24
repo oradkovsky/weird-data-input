@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WeirdDataInput</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- common -->
+
+    <string name="app_cancel">Cancel</string>
+    <string name="app_save">Save</string>
+    <string name="app_modified_title">Unsaved Changes</string>
+    <string name="app_modified_message">You have some unsaved changes. Would you like to save them before existing?</string>
+    <string name="app_validation_required_field">This field is required</string>
+
+    <!-- input screen -->
+
+    <string name="is_field1_hint">field 1 value goes here…</string>
+    <string name="is_field2_hint">field 2 value goes here…</string>
+    <string name="is_action_save">Save</string>
+    <string name="is_action_save_imitation">Imitation of save action.</string>
+    <string name="is_action_load_failed">Failed to load remote data.</string>
+</resources>
